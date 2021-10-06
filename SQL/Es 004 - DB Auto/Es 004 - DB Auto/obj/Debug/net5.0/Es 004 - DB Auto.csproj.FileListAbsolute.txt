@@ -1,0 +1,16 @@
+C:\Users\Luca\Desktop\Documents\5B\informatica\SQL\Es 004 - DB Auto\Es 004 - DB Auto\bin\Debug\net5.0\Es 004 - DB Auto.exe
+C:\Users\Luca\Desktop\Documents\5B\informatica\SQL\Es 004 - DB Auto\Es 004 - DB Auto\bin\Debug\net5.0\Es 004 - DB Auto.deps.json
+C:\Users\Luca\Desktop\Documents\5B\informatica\SQL\Es 004 - DB Auto\Es 004 - DB Auto\bin\Debug\net5.0\Es 004 - DB Auto.runtimeconfig.json
+C:\Users\Luca\Desktop\Documents\5B\informatica\SQL\Es 004 - DB Auto\Es 004 - DB Auto\bin\Debug\net5.0\Es 004 - DB Auto.runtimeconfig.dev.json
+C:\Users\Luca\Desktop\Documents\5B\informatica\SQL\Es 004 - DB Auto\Es 004 - DB Auto\bin\Debug\net5.0\Es 004 - DB Auto.dll
+C:\Users\Luca\Desktop\Documents\5B\informatica\SQL\Es 004 - DB Auto\Es 004 - DB Auto\bin\Debug\net5.0\ref\Es 004 - DB Auto.dll
+C:\Users\Luca\Desktop\Documents\5B\informatica\SQL\Es 004 - DB Auto\Es 004 - DB Auto\bin\Debug\net5.0\Es 004 - DB Auto.pdb
+C:\Users\Luca\Desktop\Documents\5B\informatica\SQL\Es 004 - DB Auto\Es 004 - DB Auto\obj\Debug\net5.0\Es 004 - DB Auto.csproj.AssemblyReference.cache
+C:\Users\Luca\Desktop\Documents\5B\informatica\SQL\Es 004 - DB Auto\Es 004 - DB Auto\obj\Debug\net5.0\Es 004 - DB Auto.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Luca\Desktop\Documents\5B\informatica\SQL\Es 004 - DB Auto\Es 004 - DB Auto\obj\Debug\net5.0\Es 004 - DB Auto.AssemblyInfoInputs.cache
+C:\Users\Luca\Desktop\Documents\5B\informatica\SQL\Es 004 - DB Auto\Es 004 - DB Auto\obj\Debug\net5.0\Es 004 - DB Auto.AssemblyInfo.cs
+C:\Users\Luca\Desktop\Documents\5B\informatica\SQL\Es 004 - DB Auto\Es 004 - DB Auto\obj\Debug\net5.0\Es 004 - DB Auto.csproj.CoreCompileInputs.cache
+C:\Users\Luca\Desktop\Documents\5B\informatica\SQL\Es 004 - DB Auto\Es 004 - DB Auto\obj\Debug\net5.0\Es 004 - DB Auto.dll
+C:\Users\Luca\Desktop\Documents\5B\informatica\SQL\Es 004 - DB Auto\Es 004 - DB Auto\obj\Debug\net5.0\ref\Es 004 - DB Auto.dll
+C:\Users\Luca\Desktop\Documents\5B\informatica\SQL\Es 004 - DB Auto\Es 004 - DB Auto\obj\Debug\net5.0\Es 004 - DB Auto.pdb
+C:\Users\Luca\Desktop\Documents\5B\informatica\SQL\Es 004 - DB Auto\Es 004 - DB Auto\obj\Debug\net5.0\Es 004 - DB Auto.genruntimeconfig.cache
